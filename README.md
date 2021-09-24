@@ -55,7 +55,7 @@ After loading the data, we  cleaned it by removing irrelevant columns.
 Analysis
 During our analysis, we were able to determine that 4pm and 7pm were the hours with the most demand for car sharing services.8 Avenue de la Porte de Montrouge was also found to be the most popular station for the electric cars.Lastly, the 15th arrondissement of Paris was the postal code with most inclination towards picking Blue cars.
 
-The above analysis was done using python(my ipython notebook link https://colab.research.google.com/drive/1M4OWUxkoTP6o_aL_Bza2u0DpC4o4MIce?usp=sharing). The full analysis can be found on my github.[https://github.com/shawnka100a/MTN-infrastructure-upgrade.]
+The above analysis was done using python(my ipython notebook link https://colab.research.google.com/drive/1M4OWUxkoTP6o_aL_Bza2u0DpC4o4MIce?usp=sharing). The full analysis can be found on my github.[https://github.com/shawnka100a/Autolib-project_week-4/blob/main/Shawn_Independent_project_week_4.ipynb.]
 
 Recommendations
 From our analysis, we would recommend that autolib should engage in providing more car sharing services within the hours with more passenger traffic(16H00 and 19H00). This will enable better customer experience as well as increasing revenue for the company.
